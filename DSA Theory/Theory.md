@@ -1,0 +1,1 @@
+### this is the folder where we add theory of topics which we learn during preparation, so all things are availbale for revision just before interviews.
